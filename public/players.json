@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "playerImage": "https://i.ibb.co.com/k68cRtWV/Virat-Kohli.jpg",
+    "playerName": "Virat Kohli",
+    "country": "India",
+    "playingRole": "Batsman",
+    "rating": 420,
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm-Medium",
+    "price": 1500000
+  },
+  {
+    "id": 2,
+    "playerImage": "https://i.ibb.co.com/PvYg0Kb4/Shakib-Al-Hasan.jpg",
+    "playerName": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playingRole": "All-Rounder",
+    "rating": 410,
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Left-Arm-Orthodox",
+    "price": 1200000
+  },
+  {
+    "id": 3,
+    "playerImage": "https://i.ibb.co.com/1JZ4nN6p/chris-gayle-west-indies.jpg",
+    "playerName": "Chris Gayle",
+    "country": "West Indies",
+    "playingRole": "Batsman",
+    "rating": 390,
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Right-Arm-Offbreak",
+    "price": 1000000
+  },
+  {
+    "id": 4,
+    "playerImage": "https://i.ibb.co.com/PsPc4GMZ/AB-de-Villiers.jpg",
+    "playerName": "AB de Villiers",
+    "country": "South Africa",
+    "playingRole": "Batsman",
+    "rating": 400,
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Wicket-Keeper",
+    "price": 1300000
+  },
+  {
+    "id": 5,
+    "playerImage": "https://i.ibb.co.com/mChwTscn/Mustafizur-Rahman.png",
+    "playerName": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "playingRole": "Bowler",
+    "rating": 360,
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Left-Arm-Fast",
+    "price": 800000
+  },
+  {
+    "id": 6,
+    "playerImage": "https://i.ibb.co.com/bjrwpDRN/Andre-Russell-biography.jpg",
+    "playerName": "Andre Russell",
+    "country": "West Indies",
+    "playingRole": "All-Rounder",
+    "rating": 405,
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm-Fast",
+    "price": 1100000
+  },
+  {
+    "id": 7,
+    "playerImage": "https://i.ibb.co.com/xSFsMqyY/Kieron-Pollard.jpg",
+    "playerName": "Kieron Pollard",
+    "country": "West Indies",
+    "playingRole": "All-Rounder",
+    "rating": 395,
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm-Medium",
+    "price": 1050000
+  },
+  {
+    "id": 8,
+    "playerImage": "https://i.ibb.co.com/rGwb27Vy/Mushfiur-rahman.jpg",
+    "playerName": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "playingRole": "Wicket-Keeper",
+    "rating": 370,
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "None",
+    "price": 700000
+  },
+  {
+    "id": 9,
+    "playerImage": "https://i.ibb.co.com/hJ1DLrqX/Tamim-ikbal.png",
+    "playerName": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "playingRole": "Batsman",
+    "rating": 365,
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Right-Arm-Offbreak",
+    "price": 750000
+  },
+  {
+    "id": 10,
+    "playerImage": "https://i.ibb.co.com/bgxq3SG4/DAVID-WARNER-11704782453.jpg",
+    "playerName": "David Warner",
+    "country": "Australia",
+    "playingRole": "Batsman",
+    "rating": 410,
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Right-Arm-Legbreak",
+    "price": 1400000
+  },
+  {
+    "id": 11,
+    "playerImage": "https://i.ibb.co.com/k6GT8Dqk/Ben-Stokes-768x494.webp",
+    "playerName": "Ben Stokes",
+    "country": "England",
+    "playingRole": "All-Rounder",
+    "rating": 415,
+    "battingStyle": "Left-Hand-Bat",
+    "bowlingStyle": "Right-Arm-Medium-Fast",
+    "price": 1350000
+  },
+  {
+    "id": 12,
+    "playerImage": "https://i.ibb.co.com/99KsHdhW/Rashid-Khan.jpg",
+    "playerName": "Rashid Khan",
+    "country": "Afghanistan",
+    "playingRole": "Bowler",
+    "rating": 400,
+    "battingStyle": "Right-Hand-Bat",
+    "bowlingStyle": "Right-Arm-Legbreak-Googly",
+    "price": 1250000
+  }
+]
